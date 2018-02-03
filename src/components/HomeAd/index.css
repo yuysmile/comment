@@ -1,0 +1,24 @@
+.title{
+	text-align: left;
+	padding-left: 10px;
+	height: 1.5rem;
+	width: 100%;
+	border-bottom-color: gray;
+	color: gray;
+}
+.cated{
+	height: 6rem;
+	width: 33.3%
+}
+.table{
+	table-layout: fixed;
+	width: 100%;
+}
+.like{
+	height: 2rem;
+	background-color: #ededed;
+	text-align: left;
+	line-height: 2rem;
+	padding-left: 10px;
+	color: gray;
+}
